@@ -1,7 +1,7 @@
 /**
- * @Author		: Tahir Shaik
- * @Date		: 11/07/21
- * @E-Mail		: tahirsk1920@gmail.com
+ * @Author		: Shaik Zakir 
+ * @Date		: 01/08/21
+ * @E-Mail		: zakscoding@gmail.com
  * @FileName	: SendEmail.java
  * @Description	: This file contains getting toMails from User, 
  * 			Mail validation, getting UserName of Email and send E-Mail.
